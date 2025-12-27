@@ -1,0 +1,77 @@
+{
+  "depth": 20,
+  "nextIndex": 1,
+  "leaves": [
+    {
+      "hash": "0a52859060920aac77301e42bf478f272e28e1d1a3f13f366d2b0d96aede3af1",
+      "data": "0x0a52859060920aac77301e42bf478f272e28e1d1a3f13f366d2b0d96aede3af1",
+      "index": 0,
+      "createdAt": "2025-12-16T17:47:27.456Z"
+    }
+  ],
+  "nodes": [
+    [
+      "0a52859060920aac77301e42bf478f272e28e1d1a3f13f366d2b0d96aede3af1"
+    ],
+    [
+      "1e24e12d11af5d3c8df15815bec4ea88855033f29c00a179fe0aa77b30478cf8"
+    ],
+    [
+      "06b4b13aab4a45d9bef534d6026e0b360cb24a618b3d7ec15feda81fb324a9dc"
+    ],
+    [
+      "2f7148b79739cc414f604f1bc0b9586dc4703ed1a45716eec9bd73e763ce6a2a"
+    ],
+    [
+      "232232b4a6886bdcb1ba92ca6090057dd6464087d6539f8c36d924f7a16e998c"
+    ],
+    [
+      "15c89f5ee0551f2398562ad3d4fe84c1a17806e114def15d0d223279c44c6fa4"
+    ],
+    [
+      "0172750be46a28cbaba85effc94cf04efbf933e6ee5b03337591fb7673d089fa"
+    ],
+    [
+      "22ebf99ec6d81df0995956a40bbbc6f125e9ecfad130a772d7da9f102f53b89b"
+    ],
+    [
+      "11272f893b1c91976e0f18f946aba3ea624e2969a199397dec1b4d1a09d977d5"
+    ],
+    [
+      "1b2335135f2e5dfc532e20473c2507b9433a2ceb3be5e102dbacd5379f6c6acd"
+    ],
+    [
+      "1c8283448a8d20d7536c060e3dd18b8cda0784a99a370fd5a6c73fa66d3a81ba"
+    ],
+    [
+      "2e91dbff679ca11ee70bf74782d3b2ed36845e9ab5a5e4c218c9077e830562fa"
+    ],
+    [
+      "026348f86d989ccbb09b5502fce709db4fb6b52c2003dc17388a351a627a6630"
+    ],
+    [
+      "00ec754c710390202f5f75673cc6e1de62ad20dbf4c0a6c96bc7c8bc4b0532e1"
+    ],
+    [
+      "2adb54b3a2aa7878844bb355b4e28e8b2dde0ae46eb777aec9f5e5cfd6f7b824"
+    ],
+    [
+      "1d3b92648ed85812d435079365652879d5f785e5666aefbf5b0238dc769f06e8"
+    ],
+    [
+      "049d41db4762c81afb7c27b4815b488b91376c41d541ef424c9021480df94af9"
+    ],
+    [
+      "1a8ec6a8f558748de15cc3323e086b3919229ee2473d28f1c07c6bfceb9a85d7"
+    ],
+    [
+      "10d29ee9dcf4e528d24c3add54a74fb8b12518c642af5a298be4ef147f5a16e6"
+    ],
+    [
+      "0e5772f8b0ec315c3acde281e44015810105f2bfe9b2b75d3e2c0b0fe399348f"
+    ],
+    [
+      "09a194f2a9ea9c7c4ab732c13550064fb6646a0b088bde35f73955255c3cec2a"
+    ]
+  ]
+}
